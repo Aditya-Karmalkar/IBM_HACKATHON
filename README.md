@@ -9,7 +9,7 @@ This repository includes an open source project which combines Data Science, Mic
 Deploy an app in Kubernetes that communicate with your data science workbench and demonstrate your findings in a customized chatbot 
 
 
-## Get the code[https://github.com/Aditya-Karmalkar/IBM_HACKATHON]
+## [Get the code](https://github.com/Aditya-Karmalkar/IBM_HACKATHON)
 
 
 ## Summary
